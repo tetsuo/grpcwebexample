@@ -72,7 +72,7 @@ Additionally, add the following entry to your `/etc/hosts` file to map `acme.exa
 haproxy -f haproxy.cfg
 ```
 
-## Try It Out
+## API
 
 You can test the endpoints as follows:
 
