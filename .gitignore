@@ -1,0 +1,5 @@
+.DS_Store
+*.pb.go
+*_pb.js
+/bin/**/*
+/private/**/*
