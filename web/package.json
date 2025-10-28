@@ -1,0 +1,17 @@
+{
+  "name": "grpc-webexample-client",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite dev",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "google-protobuf": "^4.0.0",
+    "grpc-web": "^2.0.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.9"
+  }
+}
