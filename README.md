@@ -18,16 +18,10 @@ go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
 go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
 ```
 
-### 2. Install Go dependencies
+### 2. Install Go dependencies and generate PB files
 
 ```sh
 make tidy
-```
-
-### 3. Generate protobuf files
-
-```sh
-make proto
 ```
 
 ### 4. Build the JS app
