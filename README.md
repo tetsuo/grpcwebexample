@@ -1,0 +1,1 @@
+# gRPC-Web + HAProxy example
